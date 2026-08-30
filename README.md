@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on CLI Tool<br>🌱 I’m currently learning AWS Cloud services and DevOps<br>💬 Ask me about Full stack, Gen AI<br>
+🔭 I’m currently working on Field Employee Managment System<br>🌱 I’m currently learning AWS Cloud services, Terraform and DevOps<br>💬 Ask me about Full stack, Gen AI<br>
 
 
 ## 🌐 Socials:
