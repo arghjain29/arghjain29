@@ -82,8 +82,8 @@ Published npm CLI that scaffolds full-stack projects across 7+ React/Node/Expres
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arghjain29&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arghjain29&theme=onedark&hide_border=true&include_all_commits=true&layout=compact" />
+  <img height="165" src="profile/stats.svg" />
+  <img height="165" src="profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -91,9 +91,6 @@ Published npm CLI that scaffolds full-stack projects across 7+ React/Node/Expres
   <img src="https://img.shields.io/github/stars/arghjain29?style=for-the-badge&color=yellow&labelColor=black" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arghjain29&theme=onedark&hide_border=true" />
-</p>
 ---
 
 <p align="center"><i>Building things I want to exist, then keeping them running.</i></p>
