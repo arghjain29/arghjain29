@@ -23,10 +23,10 @@
 
 ### Featured Projects
 
-**[CodeCollab — Real-Time Collaborative Code Workspace](https://github.com/arghjain29/chat_app_with_AI_codeAssistant)**
+**[CodeCollab — Real-Time Collaborative Code Workspace](https://github.com/arghjain29/CodeCollab)**
 Real-time collaborative editor built on Yjs CRDTs and self-hosted Hocuspocus over WebSockets, with a multi-provider AI pair-programmer (Gemini, Claude) featuring streaming responses and ordered fallback, Clerk auth, in-browser code execution via WebContainers, and Razorpay billing with HMAC-verified, idempotent webhooks.
 `TypeScript` `React` `Node.js` `MongoDB` `Yjs` `WebContainers`
-🔗 [Live](https://code-collab-lovat.vercel.app) · [Repo](https://github.com/arghjain29/chat_app_with_AI_codeAssistant)
+🔗 [Live](https://code-collab-lovat.vercel.app) · [Repo](https://github.com/arghjain29/CodeCollab)
 
 **[Real-Time Machine Anomaly Detection System](https://github.com/arghjain29)**
 End-to-end IoT telemetry pipeline — sensors stream to Azure IoT Hub, which feeds a self-hosted ML inference API classifying readings as normal or anomalous in real time, with results surfaced on a live React monitoring dashboard.
