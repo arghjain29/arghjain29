@@ -15,7 +15,7 @@
 - 🎓 B.Tech in Internet of Things @ Madhav Institute of Technology and Science — graduating **May 2027**
 - 💼 Full Stack Intern @ **Aleut Technologies** — building and running a production platform used company-wide
 - 🔭 Currently building **CodeCollab**, a real-time collaborative code workspace with a multi-provider AI pair-programmer
-- 🌱 Currently learning **AWS, Terraform, and DevOps** in depth
+- 🌱 Currently learning **AWS, Kubernetes, and DevOps** in depth
 - 💬 Ask me about full-stack development, cloud infrastructure, or agentic AI integrations
 - ⚡ I don't stop at "it works" — I own the infrastructure my code runs on too
 
