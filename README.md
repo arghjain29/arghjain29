@@ -17,7 +17,6 @@
 - 🔭 Currently building **CodeCollab**, a real-time collaborative code workspace with a multi-provider AI pair-programmer
 - 🌱 Currently learning **AWS, Kubernetes, and DevOps** in depth
 - 💬 Ask me about full-stack development, cloud infrastructure, or agentic AI integrations
-- ⚡ I don't stop at "it works" — I own the infrastructure my code runs on too
 
 ---
 
