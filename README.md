@@ -27,6 +27,11 @@ Real-time collaborative editor built on Yjs CRDTs and self-hosted Hocuspocus ove
 `TypeScript` `React` `Node.js` `MongoDB` `Yjs` `WebContainers`
 🔗 [Live](https://code-collab-lovat.vercel.app) · [Repo](https://github.com/arghjain29/CodeCollab)
 
+**[AquaWatch-IoT](https://github.com/arghjain29/AquaWatch-IoT)**
+Serverless IoT water-quality monitoring on AWS: simulated sensors → MQTT/TLS → IoT Core → Lambda → DynamoDB → API Gateway → React dashboard, with real-time alerts. Infrastructure as code with Terraform.
+`AWS IoT Core` `AWS Lambda` `DynamoDB` `API Gateway` `Terraform` `Python` `React 19`
+🔗 [Repo](https://github.com/arghjain29/AquaWatch-IoT)
+
 **[Real-Time Machine Anomaly Detection System](https://github.com/arghjain29)**
 End-to-end IoT telemetry pipeline — sensors stream to Azure IoT Hub, which feeds a self-hosted ML inference API classifying readings as normal or anomalous in real time, with results surfaced on a live React monitoring dashboard.
 `Azure IoT Hub` `Azure ML` `Node.js` `MongoDB` `React` `WebSockets`
